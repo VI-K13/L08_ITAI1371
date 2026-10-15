@@ -14,6 +14,7 @@ In this lab, our group explored how model complexity affects machine learning pe
 
 ## Files
 - `L08_Group1_ITAI1371.ipynb` — Completed Jupyter Notebook with code, graphs, and Knowledge Check answers.
+- `L08_Group1_ITAI1371.ipynb - Colab.pdf` - The same Jupyter Notebook just in pdf.
 - `L08Journal_R_Group1_ITAI1371.pdf` — Group Reflection Journal covering our learning experience, challenges, and observations.
 - `L08Journal_C_Group1_ITAI1371.pdf` — Team Member Contribution Journal explaining each member's responsibilities.
 
